@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"git.corout.in/golibs/filepaths"
+	"git.eth4.dev/golibs/filepaths"
 )
 
 const (

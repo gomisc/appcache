@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"git.corout.in/golibs/errors"
-	"git.corout.in/golibs/filepaths"
-	"git.corout.in/golibs/iorw"
+	"git.eth4.dev/golibs/errors"
+	"git.eth4.dev/golibs/filepaths"
+	"git.eth4.dev/golibs/iorw"
 )
 
 const (
