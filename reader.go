@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"git.eth4.dev/golibs/filepaths"
+	"gopkg.in/gomisc/filepaths.v1"
 )
 
 const (
